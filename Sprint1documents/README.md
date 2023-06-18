@@ -33,7 +33,7 @@ Spor yapmak isteyen ama bir türlü başlayamayan kişilerin, ilgilendikleri spo
 
 ## Ürün Özellikleri
 
-- Spor yapan kişileri bir araya getirerek sosyalleşmelerini sağlama
+- Spor yapan kişileri bir araya getirerek sosyalleşmelerini sağlamak
 - Spor yapmak isteyen kişilerin, ilgilendikleri alanla ilgili yorumları okumaları ve spora ilgi duymalarını sağlama
 - Kitap okuyan kişileri sohbet kanalına dahil etme ve sosyalleşmelerine imkan sunma
 - Yeni okumak istedikleri kitaplarla ilgili okur yorumlarıyla okuma süreçlerini heyecanlandırma
