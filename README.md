@@ -38,12 +38,12 @@ Takım F-84
 
 
 - **Uygulama birincil fonksiyonu**: 
-- Kitap okuyan kişilerin kitap okuma süreçlerinde ve sonrasında aynı kitapla ilgili sohbet etmelerini sağlayan grup sohbeti ortamı oluşturmak,
-- Spor yapan insanların günlük aktivitelerinde yalnız kalmalarının önüne geçerek, o spor dalıyla ilgili kişilerle sohbet edebilecekleri grup ağı oluşturmak.
+Kitap okuyan kişilerin kitap okuma süreçlerinde ve sonrasında aynı kitapla ilgili sohbet etmelerini sağlayan grup sohbeti ortamı oluşturmak,
+Spor yapan insanların günlük aktivitelerinde yalnız kalmalarının önüne geçerek, o spor dalıyla ilgili kişilerle sohbet edebilecekleri grup ağı oluşturmak.
 
 
 - **Uygulama ikincil fonksiyonu**: Kişilerin okudukları veya  okumak istedikleri kitaplarla ilgili okuyucuların yorumlarını görmelerini sağlayarak kitap okumalarına ilham sağlamak,
-- Spor yaparken devamlılık sağlamakta zorlanan bireyler için grup sohbetinin yanında, uygulamamız sayesinde tanıştıkları arkadaşlarıyla baş başa sohbet etmelerini sağlamak ve bu sayede spora devam etmelerini hedeflemekteyiz.
+Spor yaparken devamlılık sağlamakta zorlanan bireyler için grup sohbetinin yanında, uygulamamız sayesinde tanıştıkları arkadaşlarıyla baş başa sohbet etmelerini sağlamak ve bu sayede spora devam etmelerini hedeflemekteyiz.
 
 
 ## Ürün Özellikleri
@@ -82,7 +82,7 @@ Takım F-84
 # Sprint 1
 
 
-- **Sprint Notları:**Tasarım odaklı toplantılar gerçekleştirildi.
+- **Sprint Notları** : Tasarım odaklı toplantılar gerçekleştirildi.
 
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
@@ -99,17 +99,17 @@ Takım F-84
 
 
 - **Daily Scrum**: Daily Scrum toplantılarının genellikle zoom üzerinden yapılmaya çalışılsa da zamansal sebeplerden ötürü Whatsapp üzerinden de yapılmıştır. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
-[Sprint 1 Daily Scrum Chats](DailyScrumMeetingNotesSprint1.docx)
+[Sprint 1 Daily Scrum Chats](Sprint1documents/DailyScrumMeetingNotesSprint1.docx)
 
 
 - **Sprint board update**: Sprint board screenshotları:
-![Backlog 1](ProductBacklog1.png)
+![Backlog 1](Sprint1documents/ProductBacklog1.png)
 
 
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](uruntasarim1.png  )
+  ![Screenshot 1](Sprint1documents/uruntasarim1.png  )
  
  
 - **Sprint Review**:
@@ -136,7 +136,7 @@ Sprint Review katılımcıları: Muhammet Eren Eygi, Tuğçe Kahya, Sabrina Çi�
 
 
 # Sprint 2
-- **Sprint Notları:**Tasarımda güncellemelere gidildi ve ekip onayına sunuldu.
+- **Sprint Notları** : Tasarımda güncellemelere gidildi ve ekip onayına sunuldu.
 
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
@@ -153,15 +153,15 @@ Sprint Review katılımcıları: Muhammet Eren Eygi, Tuğçe Kahya, Sabrina Çi�
 
 
 - **Daily Scrum**: Daily Scrum toplantılarının genellikle Google Meets üzerinden yapılmaya karar verilmiştir, çeşitli aksaklıklar ve zamansal sebeplerden ötürü Whatsapp üzerinden de yapılmıştır. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
-[Sprint 2 Daily Scrum Chats](  DailyScrumMeetingNotesSprint2.docx  )
+[Sprint 2 Daily Scrum Chats]( Sprint2documents/DailyScrumMeetingNotesSprint2.docx )
 
 
 - **Sprint board update**: Sprint board screenshotları:
-![Backlog 2]( productBacklog2.PNG   )
+![Backlog 2]( Sprint2documents/productBacklog2.PNG  )
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](urungorselleri2.png  )
+  ![Screenshot 1](Sprint2documents/urungorselleri2.PNG  )
 
 
 
