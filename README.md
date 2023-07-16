@@ -5,6 +5,21 @@ Takım F-84
 
 
 # Ürün İle İlgili Bilgiler
+1. Aynı ilgi alanına sahip bireyleri bir araya getirmek,
+2. Kişiler arası deneyim paylaşımı,
+3. Faydalı alışkanlıkların devamlılığını sağlamak,
+4. Aynı ilgi alanları sayesinde yeni kişilerle tanıştırmak,
+5. Kitap okuma süreçlerinde zorluk çekenler için kitaplarla ilgili yorumlar göstererek motive etme,
+6. Okudukları aynı kitapla ilgili sohbet etmelerini kolaylaştıran okur odaları,
+7. Okur odalarında edindikleri arkadaşlarıyla bireysel sohbetleşmelere olanak sağlamak,
+8. İlgi alanlarıyla ilgili sürekli iletişim sayesinde alışkanlıklarının devamlılığını sağlamak,
+9. Sporcuların sohbet odalarında faydalı spor setleri ve antrenmanları ile ilgili deneyimleri sayesinde birbirlerine spor süreçlerinde destek olmak, 
+10. Spor ilgi alanı için birebir sohbet özelliğini kullanarak, kişinin kendine uygun bir buddy eşleşmesi sağlayarak bu süreçte motive kalmasını ve bu alışkanlığın süreklilik kazanmasını  amaçlamak,
+11. Faydalı alışkanlıklar sayesinde genişleyen sosyal çevre,
+12. Aktivitelerinin devamlılığını sağlayacak güçlü motivasyon,
+13. Kitap kurtları için kitaplarla ilgili istedikleri zaman derin sohbetlerde katkı sağlamayı mümkün kılmak,
+14. Spor tutkunları için kendileri gibi tutkun buddy'lerini bulmak.
+15. Yeni gelecek hobi alanları ile kullanıcılarımızın yeni hobiler edinmelerine öncü olmak.
 
 
 
@@ -38,21 +53,27 @@ Takım F-84
 
 
 - **Uygulama birincil fonksiyonu**: 
-Kitap okuyan kişilerin kitap okuma süreçlerinde ve sonrasında aynı kitapla ilgili sohbet etmelerini sağlayan grup sohbeti ortamı oluşturmak,
-Spor yapan insanların günlük aktivitelerinde yalnız kalmalarının önüne geçerek, o spor dalıyla ilgili kişilerle sohbet edebilecekleri grup ağı oluşturmak.
+ Aynı ilgi alanına sahip insanları bir araya getirerek etkileşim sağlamak ve bu kişiler arasında deneyim aktarımı sağlayarak bir nevi kılavuz hizmeti vererek faydalı alışkanlıkların sürekliliğini ve verimliliğini arttırmayı amaçalamaktayız. Kitap okuyan kullanıcılarımızın kitap okuma sürecinin başında yorum ekranı sayesinde seçim aşamasına ışık tutarken  sonrasında aynı kitapla ilgili sohbet etmelerini sağlayan grup sohbeti ortamı oluşturmak için okur odası iletişimi sağlayarak kitap üzerinde farklı bakış açıları kazanılması ve sağlanılan etkileşim sayesinde kitap okuma serüvenine yol verecek fikirler almasını sağlayarak kitap okuma alışkanlığının sağlanması ve gelişmesi amaçlanmaktadır
+Spor yapan kullanıcılarımızın ise günlük aktivitelerinde yapacağı antrenman alanında ortak insanlarla bir araya getirerek faydalı antrenman ve set önerileri almasını teşvik ederek fiziksel gelişimine katkı sunarken  birebir sohbet özelliğini kullanarak kendine uygun bir buddy eşleşmesi sağlayarak bu süreçte motive kalmasını sağlayarak bu alışkanlığın süreklilik kazanmasını  amaçlamaktayız .
 
 
-- **Uygulama ikincil fonksiyonu**: Kişilerin okudukları veya  okumak istedikleri kitaplarla ilgili okuyucuların yorumlarını görmelerini sağlayarak kitap okumalarına ilham sağlamak,
-Spor yaparken devamlılık sağlamakta zorlanan bireyler için grup sohbetinin yanında, uygulamamız sayesinde tanıştıkları arkadaşlarıyla baş başa sohbet etmelerini sağlamak ve bu sayede spora devam etmelerini hedeflemekteyiz.
+- **Uygulama ikincil fonksiyonu**: 
+Faydalı alışkanlıklar etrafında bir sosyal çevre kazanılması ve bu alanda çalışmalarının arttırılmasının sağlanması. bununla paralel olarak
+Kullanıcıların okudukları ortak kitaplarla ilgili okur odasında yapılan sohbetlerle beraber farklı bakış açıları sayesinde bu yöne olan ilginin ve eforun arttırılması ve tanıştıkları diğer kullanıcılarla, her konuda bireysel sohbet edebilmelerini sağlayacak  bireysel sohbet alanları oluşturarak sosyal çevrenin de olumlu yönde gelişmesi amaçlanmaktadır  ,
+Spor yaparken sağlıklı programlama yapmada ve uygun sosyal çevre oluşturmada   zorlanan bireyler için grup sohbetinin yanında, uygulamamız sayesinde tanıştıkları buddy'leriyle baş başa sohbet etmelerini sağlamak ve farklı antrenman yöntemlerini fark etmeleri için ve spora devam etmelerini için kullanmalarını hedeflemekteyiz.
+
+- **Uygulama üçüncül fonksiyonu**:
+ Rutinlerin sağlıklı aktiviteler etrafında  şekillenmesi ilerleyen zamanda yeni hobiler eklenerek farklı hobi alanlarına ilgi uyandırarak bilinç ve sağlıklı bir rutin oluşturulması amaçlanmaktadır. Buna binayen ingilizce konuşma odaları,sağlıklı beslenme odaları gibi seçenekler düşünülebilir
+
 
 
 ## Ürün Özellikleri
 
 
-- Spor yapan kişileri bir araya getirerek sosyalleşmelerini sağlamak
-- Spor yapmak isteyen kişilerin, ilgilendikleri alanla ilgili grup sohbetlerine katkı sağlamaları,
+- Spor yapan kullanıcıları bir araya getirerek sosyalleşmelerini sağlamak
+- Spor yapmak isteyen kullanıcıların, ilgilendikleri alanla ilgili grup sohbetlerine katkı sağlamaları,
 - Ürünümüz sayesinde tanışan bireylerin grup dışında bireysel sohbet etmelerine olanak sağlamak,
-- Kitap okuyan kişileri sohbet kanalına dahil etme ve sosyalleşmelerine imkan sunma
+- Kitap okuyan kullanıcıları sohbet kanalına dahil etme ve sosyalleşmelerine imkan sunma
 - Yeni okumak istedikleri kitaplarla ilgili okur yorumlarıyla okuma süreçlerini heyecanlandırma
 - Aynı yazardan kitap önerileri
 - Sohbet edebilecekleri efektif bir ortam
@@ -90,10 +111,10 @@ Spor yaparken devamlılık sağlamakta zorlanan bireyler için grup sohbetinin y
 
 
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in 100 ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 310 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in 100 ile başlaması gerektiğine karar verildi.
 
 
-- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ekip üyelerine geç ulaşılmasına ve ekipten ayrılan üyenin olmasına rağmen oluşturulmuş ve süreç içerisinde güncellenmek zorunda kalınmıştır. Puan tamamlama mantığı göz önünde bulundurularak story yazılmıştır.
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ekip üyelerine geç ulaşılmasına ve ekipten ayrılan üyenin olmasına rağmen oluşturulmuş ve süreç içerisinde güncellenmek zorunda kalınmıştır. Puan tamamlama mantığı göz önünde bulundurularak story yazılmıştır. Trello çalışma alanında user stories başlığı altında açıklamalar yapılmıştır.
 
 
 
@@ -144,10 +165,10 @@ Sprint Review katılımcıları: Muhammet Eren Eygi, Tuğçe Kahya, Sabrina Çi�
 
 
 
-- **Puan tamamlama mantığı**: Toplam proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci  sprint'in 100 ile devam etmesi gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Toplam proje boyunca tamamlanması gereken 310 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci  sprint'in 100 ile devam etmesi gerektiğine karar verildi.
 
 
-- **Backlog düzeni ve Story seçimleri**: İkinci sprintte karşılaştığımız yoğunluk sebebiyle ui tasarımında güncellemeler yaptık, database oluşturma süreci devam etmektedir. Story seçimlerinde kullanıcıları baz alarak ui tasarıma ağırlık verilmiştir. Puan tamamlama mantığı göz önünde bulundurularak story yazılmıştır.
+- **Backlog düzeni ve Story seçimleri**: İkinci sprintte karşılaştığımız yoğunluk sebebiyle ui tasarımında güncellemeler yaptık, database oluşturma süreci devam etmektedir. Story seçimlerinde kullanıcıları baz alarak ui tasarıma ağırlık verilmiştir. Puan tamamlama mantığı göz önünde bulundurularak story yazılmıştır.Trello çalışma alanında user stories başlığı altında açıklamalar yapılmıştır.
 
 
 
@@ -161,7 +182,7 @@ Sprint Review katılımcıları: Muhammet Eren Eygi, Tuğçe Kahya, Sabrina Çi�
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](Sprint2documents/urungorselleri2.PNG  )
+  ![Screenshot 2.1](Sprint2documents/urungorselleri2.PNG  )
 
 
 
@@ -182,6 +203,56 @@ Sprint Review katılımcıları: Muhammet Eren Eygi, Tuğçe Kahya, Şevval Kaya
 
 
 ---
+# Sprint 3
+- **Sprint Notları** : Front end tasarımıyla ilgili güncellemeler yapıldı. Kodlamalara ağırlık verilip backend kodlamaları tamamlanıyor.
 
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+
+
+
+
+- **Puan tamamlama mantığı**: Toplam proje boyunca tamamlanması gereken 310 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde son  sprint'in 110 ile tamamlanması gerektiğine karar verildi.
+
+
+- **Backlog düzeni ve Story seçimleri**: Son sprint için oldukça yoğun tempoda çalıştık. Tüm developer'lar kendilerine verilen görevleri yerine getirdi. Story seçimlerinde kullanıcıları baz alarak ui tasarıma ağırlık verilmiştir. Puan tamamlama mantığı göz önünde bulundurularak story yazılmıştır. Kullanıcıların kolaylıkla uygulamayı kullanmaları için tasarımlar tamamlandı. Trello çalışma alanında user stories başlığı altında açıklamalar yapılmıştır.
+
+
+
+
+- **Daily Scrum**: Daily Scrum toplantılarının genellikle Google Meets üzerinden yapılmaya karar verilmiştir, çeşitli aksaklıklar ve zamansal sebeplerden ötürü Whatsapp üzerinden de yapılmıştır. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
+[Sprint 3 Daily Scrum Chats]( Sprint3documents/DailyScrumMeetingNotesSprint3.docx )
+
+
+- **Sprint board update**: Sprint board screenshotları:
+![Backlog 3.1]( Sprint3documents/productBacklog3.1.png  )
+![Backlog 3.2]( Sprint3documents/productBacklog3.2.png )
+
+
+
+- **Ürün Durumu**: Ekran görüntüleri:
+  ![Screenshot 3.1](Sprint3documents/urundurumu3.1.png )
+  ![Screenshot 3.2](Sprint3documents/urundurumu3.2.png )
+  ![Screenshot 3.3](Sprint3documents/urundurumu3.3.png )
+
+
+
+
+- **Sprint Review**: Ürün durumu göz önüne alınarak, gelişmeler konusunda ekiple kritikler yapıldı. Değişiklik talepleri değerlendirildi ve onaylandı. Kodlamalardaki hatalar giderildi. Ürün teslim formu ve video kaydı için görevlendirmeler yapıldı.
+Sprint Review katılımcıları: Muhammet Eren Eygi, Tuğçe Kahya, Sabrina Çiçek
+
+
+
+
+- **Sprint Retrospective:** Bootcamp boyunca verilen emekler için ve gruba sadık kalındığı için ekip tebrik edildi. Başından beri önemle vurguladığımız 'grubun her bir üyesi çok değerlidir' mottomuz ile çalışmalarımızı tamamladığımız için herkese teşekkür edildi. Görevler başarı ile tamamlandı ve sprint kapatıldı.
+
+
+
+
+## Product Backlog URL:
+[F-84 Trello Backlog Board](https://trello.com/b/nIIdjpAb/sprint-3)
+
+
+---
 
 
